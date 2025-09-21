@@ -21,7 +21,7 @@ FDA_SCRAPPER is a FastAPI-based web service that automates the process of gather
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone https://github.com/yourusername/FDA_SCRAPPER.git
+   git clone https://github.com/raghusai-09/FDA_TPLC_WebScraper.git
    cd FDA_SCRAPPER
    ```
 
@@ -113,3 +113,4 @@ FDA_SCRAPPER is MIT licensed. Contributions are welcome—just open an issue or 
 ## Questions?
 
 Reach out at [your.email@example.com](mailto:your.email@example.com).
+
