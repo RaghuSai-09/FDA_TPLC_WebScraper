@@ -201,4 +201,5 @@ FDA_SCRAPPER is MIT licensed. Contributions are welcome—just open an issue or 
 
 ## Questions?
 
-Reach out at [your.email@example.com](mailto:your.email@example.com).
+Reach out at [kosanaraghusai@gmail.com](mailto:kosanaraghusai@gmail.com).
+
